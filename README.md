@@ -5,9 +5,10 @@
 ---
 ### Standart Penulisan Judul Project
 ```
-Jenis_project-dev/off/arsip-nama_project
-
+Jenis_project-dev/off/arsip-nama_project (private)
 CLI/REST/GUI-dev-resep-makanan
+
+REST-resep-makanan (public)
 ```
 
 ### Standart Pesan Komit 
