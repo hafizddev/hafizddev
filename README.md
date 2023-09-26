@@ -1,40 +1,17 @@
-- 👋 Hi, I’m Hafizd Kurniawan
-- 👀 I’m interested in python 
-- 📫 How to reach me hafizddev@gmail.com
+👋 Halo! Saya Hafizd Kurniawan 👨‍💻
 
----
-### Standart Penulisan Judul Project
-```
-Jenis_project-dev/off/arsip-nama_project (private)
-CLI/REST/GUI-dev-resep-makanan
+🚀 Saya adalah seorang pengembang backend berfokus pada bahasa pemrograman Go (Golang) dengan hasrat dalam menciptakan solusi perangkat lunak yang efisien dan andal.
 
-REST-resep-makanan (public)
-```
+🔧 Pengalaman saya meliputi:
+- Pembangunan aplikasi berbasis mikro dengan Go
+- Optimasi performa aplikasi
+- Keamanan aplikasi dan data
+- Menangani skalabilitas sistem
 
-### Standart Pesan Komit 
-```
-"feat: Menambahkan fitur baru XYZ"
-Digunakan ketika menambahkan fitur baru ke dalam proyek.
+📫 Jangan ragu untuk menghubungi saya melalui hafizddev@gmail.com atau terhubung dengan saya di LinkedIn: ~hafizd~.
 
-"fix: Memperbaiki bug ABC"
-Digunakan ketika memperbaiki sebuah bug dalam proyek.
+🌐 Jelajahi proyek-proyek saya di GitHub untuk melihat kontribusi dan kode yang saya bagikan dengan komunitas. Saya senang berkolaborasi dan terbuka untuk diskusi.
 
-"docs: Memperbarui dokumentasi"
-Digunakan ketika melakukan perubahan atau penambahan pada dokumentasi proyek.
+📚 Saya juga menulis artikel dan tutorial di blog pribadi saya ~hafizd~, tentang topik-topik terkait Go dan pengembangan backend.
 
-"chore: Melakukan perubahan rutin atau perbaikan kecil"
-Digunakan untuk perubahan kecil yang tidak terkait dengan fitur atau bug, seperti konfigurasi,
-perbaikan kode yang tidak terlihat, dan lainnya.
-
-"refactor: Melakukan perbaikan kode tanpa perubahan fungsionalitas"
-Digunakan ketika melakukan perbaikan atau restrukturisasi kode tanpa mengubah fungsionalitas yang ada.
-
-"test: Menambahkan atau memperbarui pengujian"
-Digunakan ketika menambahkan atau memperbarui pengujian (test) dalam proyek.
-
-"style: Melakukan perubahan pada tampilan atau format kode"
-Digunakan ketika melakukan perubahan pada tampilan atau format kode yang tidak mempengaruhi fungsionalitas.
-
-"revert: Membatalkan komit sebelumnya"
-Digunakan ketika melakukan revert atau pembatalan terhadap komit sebelumnya.
-```
+🏆 Terima kasih telah mengunjungi profil saya di GitHub. Saya berharap dapat berkontribusi lebih banyak dalam ekosistem Go!
